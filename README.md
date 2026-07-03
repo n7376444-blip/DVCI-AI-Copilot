@@ -1,7 +1,7 @@
 DVCI AI Copilot ⚖️🛡️
 ​Next-Generation Multi-Agent AI Platform for Automated Financial Forensics, AML, and Banking Compliance.
 ​🔗 Platform Links
-• ​Interactive Live Prototype:https://share.google/vIMu7mPNb90kdQoVN
+• ​Interactive Live Prototype:https://share.google/D7QxstoKnAEAdMRae
 
 ​📌 About The Project
 ​DVCI AI Copilot is a proactive RegTech platform engineered to automate digital financial investigations and ensure real-time compliance with the Saudi Central Bank (SAMA) regulations. By leveraging a hybrid architecture that merges the deterministic precision of C++ risk-scoring math with the contextual reasoning depth of Generative AI, DVCI slashes administrative case-building times from days down to just 10 seconds—delivering a massive 90% boost in operational efficiency.
